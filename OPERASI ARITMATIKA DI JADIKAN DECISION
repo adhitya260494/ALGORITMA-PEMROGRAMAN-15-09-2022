@@ -1,0 +1,18 @@
+contoh soal
+1 modulus 2 = 1
+2 modulus 2 = 0
+5 modulus 2 = 1
+8 modulus 2 = 0
+10001 modulus 2 = 1
+5000 modulus 2 = 1
+
+angka berapapun kalau di modulus 2 = 0 berarti genap. kalau tidak 0 berarti ganjil
+modulus adalah operasi aritmatikan sedangkan hasil dari operasinya nanti akan di jadikan acuan decision.
+
+algoritmanya
+deklarasi variable angka : angka bulat  (integer)
+angka << input dari keyboar
+jika angka modulus 2 = 0 maka 
+       tampilkan "GENAP"
+selain itu
+        tampilan "GANJIL"
